@@ -125,7 +125,9 @@ body {
 }
 
 .container__imagem {
-    width: 28rem;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
 }
 
 .rodape {
